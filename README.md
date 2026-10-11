@@ -26,16 +26,16 @@ A real-time computer vision project built with Python, OpenCV, YOLOv8, MediaPipe
 
 ---
 #  How to Run
-Install dependencies:
 
-# Bash
+# Step 1: Install dependencies: 
+## Bash
 pip install -r requirements.txt
-Run the main application:
 
-# Bash
+# Step 2: Run the main application:
+## Bash
 python main.py
 
-# Open the dashboard:
+# Step 3: Open the dashboard:
 Open your browser and navigate to http://127.0.0.1:5001
 
 ## Project Structure
